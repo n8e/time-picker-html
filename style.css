@@ -1,0 +1,53 @@
+.time {
+  display: inline-block;
+  margin: 100px;
+}
+
+#timePicker {
+  background-color: #FFFFFF;
+  border-radius: 4px 0 0 4px;
+  color: #000;
+  display: inline-block;
+  font-family: Arial;
+  font-size: 175%;
+  height: 46px;
+  text-align: center;
+  width: 150px;
+  float: left;
+}
+
+#hour, #minute {
+  background-color: #FFFFFF;
+  border: 0;
+  font-size: 100%;
+  height: 46px;
+  -webkit-appearance: none;
+}
+
+#buttons {
+  height: 50px;
+  width: 205px;
+  display: inline-block;
+}
+
+#morn {
+  height: 50px;
+  width: 50;
+  color: #FFFFFF;
+  background-color: #000000;
+  border-radius: 0;
+  border-color: #000;
+  font-size: 175%;
+  float: left;
+}
+
+#even {
+  height: 50px;
+  width: 50;
+  color: #000000;
+  background-color: #FFFFFF;
+  border-radius: 0 4px 4px 0;
+  border-color: #000;
+  font-size: 175%;
+  float: left;
+}
