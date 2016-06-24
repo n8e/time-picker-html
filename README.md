@@ -1,2 +1,2 @@
 # time-picker-html
-JS time picker
+Time picker made from HTML, CSS and Javascript
